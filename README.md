@@ -10,7 +10,7 @@ Data-Stuctures-and-Algorithms-II-Assignment
 │   ├──  src.py        # Source file cotains implementation of dfsa, dept of dfsa, hopcroft's and tarjan's algorithms
 │   ├── main.py        # Runner code
 │   └── test.py        # Contains unit tests for init-random dfsa, depth of dfsa, , hopcroft's and tarjan's algorithms
-├── documentation.pdf  # Report including explanation of algorithms****
+├── documentation.pdf  # Report including explanation of algorithms
 └── README.md       
 ```
 ## Information about this assignment.

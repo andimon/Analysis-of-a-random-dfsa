@@ -2,7 +2,7 @@
 Assignment  in partial fulfillment of completion unit ICS2210 Data Structures and Algorithms 2
 
 
-## File Stucture
+## File Stucture.
 
 ```
 Data-Stuctures-and-Algorithms-II-Assignment
